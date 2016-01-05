@@ -1,0 +1,11 @@
+{
+  "name": "newrelic-config",
+  "version": "0.0.1",
+  "main": "index.js",
+  "peerDependencies": {
+    "newrelic": "*"
+  },
+  "devDependencies": {
+    "newrelic": "^1.24.1"
+  }
+}
