@@ -1,5 +1,5 @@
 {
-  "name": "newrelic-config",
+  "name": "config-newrelic",
   "version": "0.0.1",
   "main": "index.js",
   "peerDependencies": {
